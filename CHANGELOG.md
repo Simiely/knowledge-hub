@@ -1,5 +1,9 @@
 # CHANGELOG.md · 仓库级变更
 
+## 仓库 · 2026-10-09 · 补录 code-audit-playbook
+
+- 「🧠 思维 / 方法论」补录 **[`code-audit-playbook`](https://github.com/Simiely/code-audit-playbook)**（系统性代码审计方案）
+
 ## 仓库 · 2026-10-09 · 建库
 
 ### 建库
