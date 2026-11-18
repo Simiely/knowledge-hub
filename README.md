@@ -19,8 +19,10 @@
 | `mindset-leverage` 🔒 | 思维维度能力提升：完整方法论与调研 | 2026-09-17 |
 | `gaokao-first-principles` 🔒 | 高考高分调研：从第一性原理到认知能力的思维导图拆解 | 2026-09-09 |
 | `knowledge-retrieval-system` 🔒 | 领域知识检索系统方案：卡片化知识库 + 检索 + 分工分权 + Git 版本 | 2026-08-18 |
-| **[`code-audit-playbook`](https://github.com/Simiely/code-audit-playbook)** | 系统性代码审计方案：按**不变量**审而非按文件审，找根因不打补丁（附一页速查执行版） | 2026-10-06 |
 | `light-alchemy` 🔒 | 拾光酿 · AI 交互信息提炼系统：收集 → 分类 → 存储 → 复盘 | 2026-08-09 |
+
+> ⚠️ `code-audit-playbook` 已于 2026-11-18 确认**不可访问**（GitHub API 404，且不在账号的
+> 101 个仓库列表中），索引条目已移除；若只是改名/转仓，请把正确地址补回本表。
 
 ### 📚 内容 / 资料库
 
