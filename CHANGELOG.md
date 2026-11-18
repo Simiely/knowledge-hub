@@ -3,7 +3,7 @@
 ## 2026-11-18 · 外链巡检 + 移除失效条目
 
 - 新增 `.github/workflows/link-rot.yml`：每周 lychee 巡检全部 md 外链，失败自动开/追 issue（有缓存、不阻塞 PR）
-- **移除 `code-audit-playbook` 条目**：GitHub API 404、且不在账号 101 个仓库列表中，判断为已删除
+- **移除 `code-audit-playbook` 条目**：该仓已由本人删除（2026-11-18 确认），索引随之移除
 - 说明：本仓不加 repo-kit 机器层——只有 4 个 md、几乎没有内链，`check_repo` 在此查不到东西
 
 ## 仓库 · 2026-10-09 · 补录 code-audit-playbook
