@@ -36,7 +36,7 @@
 | 项目 | 说明 | 技术栈 | 在线阅读 | 最近更新 |
 |---|---|---|---|---|
 | `item-expiry-reminder` 🔒 | 物品有效期提醒：WebDAV + iCalendar 订阅，跨安卓（澎湃 OS）/ iOS / 鸿蒙，无需 App 与推送资质 | JavaScript | — | 2026-09-28 |
-| `invoice-guide` 🔒 | 个人开发票操作指南：私单开票全流程 | HTML | — | 2026-09-02 |
+| `invoice-guide` 🔒（已归档） | 个人开发票操作指南：私单开票全流程，仓库只读 | HTML | — | 2026-11-19 |
 | `pc-upgrade-14700f` 🔒（已归档） | 个人装机记录：R7 3700X → i7-14700F（单核约 2.2 倍），仓库只读 | — | — | 2026-11-19 |
 | **[`video-split-flac`](https://github.com/Simiely/video-split-flac)** | B站 / YouTube 视频按时间戳分段 → FLAC + Whisper 歌词转写 + LRC 同步歌词嵌入 | Python | 🔗[页面](https://simiely.github.io/video-split-flac/) | 2026-09-01 |
 | ~~`baby-hair-braiding-guide`~~（已归档） | 多少岁的小朋友适合扎辫子 · 面向家长的互动式科普分享卡片；仓库只读、Pages 页面保留 🔗[页面](https://simiely.github.io/baby-hair-braiding-guide/) | HTML | 2026-11-19 |
