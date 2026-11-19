@@ -1,6 +1,6 @@
 # AGENTS.md · 项目规则
 
-> 📌 **文档基线**：2026-11-18（commit `bb2c4af`）加周更外链巡检（lychee）、移除失效的 code-audit-playbook 条目
+> 📌 **文档基线**：2026-11-19（commit `784a4a4`）盘点复核：维持不加机器层的决定
 > **更新索引后，请更新此行**（日期 + 新 commit hash），并在 CHANGELOG 追加。
 
 ## 本仓库定位（重要）
